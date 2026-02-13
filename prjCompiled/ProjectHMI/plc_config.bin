@@ -1,0 +1,26 @@
+{
+  "connection_number_1":{
+  
+    "interface_method":"Ethernet",
+    "manufacturer":"Modbus",
+    "connect":"Modbus Master TCP/IP",
+    "baud_rate":"9600",
+    "data_bit":"8",
+    "check_bit":"NONE",
+    "stop_bit":"1",
+    "station_number_hmi":"0",
+    "station_number_plc":"1",
+    "communication_time":"5",
+    "timeout_time_1":"1000",
+    "timeout_time_2":"5",
+    "retry_count":"3",
+    "address_mode":"0",
+    "address_interval":"16",
+    "backup_parameters_1":"0",
+    "backup_parameters_2":"0",
+    "backup_parameters_3":"0",
+    "ethernet_ip":"192.168.1.18",
+    "ethernet_port":"502",
+    "backup_parameters_4":"0"
+  }
+}
